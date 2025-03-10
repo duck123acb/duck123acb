@@ -9,8 +9,6 @@ also while im writing this im realizing that markdown is a lot like html for som
 maybe html drew inspo from md
 who knows  
 
-[Duckfish](https://duck-acb.itch.io/duckfish) is something i made somewhat recently. kinda proud of it for making it in a month and a half  
-rn im working on [Ducknotes V2](https://github.com/duck123acb/ducknotes-v2/) so kinda hypeee
 
 i need to make an actual website soon istg
 <br>
