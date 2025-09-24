@@ -1,4 +1,4 @@
-# tomfoolish creature
+# i need to make an actual website soon bro
 
 c++ and rust are my love languages  
 i like doing things in blender (i usually only do 3d renders)  
