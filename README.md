@@ -1,4 +1,4 @@
-#  [duck123acb](duck123acb.github.io)
+#  [duck123acb](https://duck123acb.github.io)
 
 silly lifter with the freedom motif
 
