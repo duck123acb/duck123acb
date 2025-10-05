@@ -1,16 +1,7 @@
-# i need to make an actual website soon bro
+# duck123acb.github.io
 
-c++ and rust are my love languages  
-i like doing things in blender (i usually only do 3d renders)  
-HUGE deltarune fanatic lol  
-irl i go to the gym everyday (not that big yet lol)  
+silly lifter with the freedom motif
 
-also while im writing this im realizing that markdown is a lot like html for some reason  
-maybe html drew inspo from md
-who knows  
-
-
-i need to make an actual website soon istg
 <br>
 <br>
 <br>
